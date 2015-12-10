@@ -10,7 +10,7 @@ namespace BuildTestProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello potatoe!");
+            Console.WriteLine("Hello world!");
             Console.ReadLine();
         }
     }
